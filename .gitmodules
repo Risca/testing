@@ -1,0 +1,3 @@
+[submodule "testing-submodule"]
+	path = testing-submodule
+	url = git@github.com:Risca/testing-submodule.git
