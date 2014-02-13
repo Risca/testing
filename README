@@ -1,1 +1,8 @@
 Testing post-merge hook in git
+
+Add these files to the hooks dir.
+To get the hook dir, even for submodules, run:
+
+```
+`git rev-parse --git-dir`/hooks
+```
